@@ -5,8 +5,7 @@ Electric vehicles are gaining in popularity, but does the United States currentl
 
 Additionally, this project examines the growth of e-bike and e-scooter usage in urban transit. These smaller vehicles have also started to play an important role in helping cities transition to sustainable, emissions-free transportation. We will be looking at how these vehicles have grown in usage over the past few years and the overall growth of the micromobility market. We also want to observe real time data to visualize vehicle trips through various cities.
 
-
-Final Report:
+Final Report: Team 25 591_592 Final Report.pdf
 
 Charging Station EDA_v2.ipynb provides the code for importing alternative fuel station data from the US Department of Energy website, cleaning and manipulating the data to give insight on what regions have the most charging stations, creating bar charts, and creating an interactive choropleth that shows the total number of charging stations and supported levels of charging in each US county.
 
