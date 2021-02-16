@@ -5,12 +5,12 @@ Electric vehicles are gaining in popularity, but does the United States currentl
 
 Additionally, this project examines the growth of e-bike and e-scooter usage in urban transit. These smaller vehicles have also started to play an important role in helping cities transition to sustainable, emissions-free transportation. We will be looking at how these vehicles have grown in usage over the past few years and the overall growth of the micromobility market. We also want to observe real time data to visualize vehicle trips through various cities.
 
-Final Report: Team 25 591_592 Final Report.pdf
+**Final Report:** Team 25 591_592 Final Report.pdf
 
-Charging Station EDA_v2.ipynb provides the code for importing alternative fuel station data from the US Department of Energy website, cleaning and manipulating the data to give insight on what regions have the most charging stations, creating bar charts, and creating an interactive choropleth that shows the total number of charging stations and supported levels of charging in each US county.
+**Charging Station EDA_v2.ipynb** provides the code for importing alternative fuel station data from the US Department of Energy website, cleaning and manipulating the data to give insight on what regions have the most charging stations, creating bar charts, and creating an interactive choropleth that shows the total number of charging stations and supported levels of charging in each US county.
 
-HTML in the Charging Station EDA notebook is viewable here: https://nbviewer.jupyter.org/github/Cody-Lange/Exploring-Electric-Vehicle-Infrastructure/blob/main/Charging%20Station%20EDA_v2.ipynb
+**HTML in the Charging Station EDA notebook is viewable here:** https://nbviewer.jupyter.org/github/Cody-Lange/Exploring-Electric-Vehicle-Infrastructure/blob/main/Charging%20Station%20EDA_v2.ipynb
 
-Austin and Louisville Scooter EDA.ipynb uses Spark SQL to examine the growth of e-bike and e-scooter usage in urban transit. Creates heatmaps of scooter and bike usage by month and year. Also uses Kepler gl to visualize individual scooter trips in Louisville, KY during February 2019.
+**Austin and Louisville Scooter EDA.ipynb** uses Spark SQL to examine the growth of e-bike and e-scooter usage in urban transit. Creates heatmaps of scooter and bike usage by month and year. Also uses Kepler gl to visualize individual scooter trips in Louisville, KY during February 2019.
 
-EV_range.ipynb creates interactive scatter plots of EV Range vs Annual Fuel Costs, Annual Fuel Costs vs. Model Year, EV Range vs. Model Year, and Level 2 Charging Time vs. Range
+**EV_range.ipynb** creates interactive scatter plots of EV Range vs Annual Fuel Costs, Annual Fuel Costs vs. Model Year, EV Range vs. Model Year, and Level 2 Charging Time vs. Range
