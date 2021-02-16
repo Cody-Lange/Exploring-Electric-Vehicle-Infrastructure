@@ -11,6 +11,9 @@ Additionally, this project examines the growth of e-bike and e-scooter usage in 
 
 **HTML in the Charging Station EDA notebook is viewable here:** https://nbviewer.jupyter.org/github/Cody-Lange/Exploring-Electric-Vehicle-Infrastructure/blob/main/Charging%20Station%20EDA_v2.ipynb
 
+![GitHub Logo](C:\Users\lange\Pictures\Charging_Station_Choropleth)
+Format: ![Alt Text](url)
+
 **Austin and Louisville Scooter EDA.ipynb** uses Spark SQL to examine the growth of e-bike and e-scooter usage in urban transit. Creates heatmaps of scooter and bike usage by month and year. Also uses Kepler gl to visualize individual scooter trips in Louisville, KY during February 2019.
 
 **EV_range.ipynb** creates interactive scatter plots of EV Range vs Annual Fuel Costs, Annual Fuel Costs vs. Model Year, EV Range vs. Model Year, and Level 2 Charging Time vs. Range
