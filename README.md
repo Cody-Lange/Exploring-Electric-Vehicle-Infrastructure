@@ -18,3 +18,5 @@ Additionally, this project examines the growth of e-bike and e-scooter usage in 
 ![Static Dashboard](https://github.com/Cody-Lange/Exploring-Electric-Vehicle-Infrastructure/blob/main/Louisville%20Dashboard.PNG?raw=true)
 
 **EV_range.ipynb** creates interactive scatter plots of EV Range vs Annual Fuel Costs, Annual Fuel Costs vs. Model Year, EV Range vs. Model Year, and Level 2 Charging Time vs. Range
+
+![Static Scatter Plots](https://github.com/Cody-Lange/Exploring-Electric-Vehicle-Infrastructure/blob/main/Scatter%20Plots.PNG?raw=true)
