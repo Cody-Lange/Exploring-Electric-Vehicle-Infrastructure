@@ -21,4 +21,4 @@ Additionally, this project examines the growth of e-bike and e-scooter usage in 
 
 ![Static Scatter Plots](https://github.com/Cody-Lange/Exploring-Electric-Vehicle-Infrastructure/blob/main/Scatter%20Plots.PNG?raw=true)
 
-**Statement of Work** Ryan Ball is credited for the items in EV_range.ipynb, Cody Lange is credited for Charging Station EDA_v2.ipynb, and Viraj Pande is credited for Austin and Louisville Scooter EDA.ipynb
+**Statement of Work: ** Ryan Ball is credited for the items in EV_range.ipynb, Cody Lange is credited for Charging Station EDA_v2.ipynb, and Viraj Pande is credited for Austin and Louisville Scooter EDA.ipynb
