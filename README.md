@@ -23,4 +23,4 @@ Additionally, this project examines the growth of e-bike and e-scooter usage in 
 
 **Statement of Work:** Ryan Ball is credited for the items in EV_range.ipynb, Cody Lange is credited for Charging Station EDA_v2.ipynb, and Viraj Pande is credited for Austin and Louisville Scooter EDA.ipynb
 
-<a href="https://github.com/Cody-Lange/Exploring-Electric-Vehicle-Infrastructure/blob/main/louisville_scooter_trips.html" target="_blank">Visit W3Schools!</a>
+<a href="https://raw.githubusercontent.com/Cody-Lange/Exploring-Electric-Vehicle-Infrastructure/main/louisville_scooter_trips.html" target="_blank">Visit W3Schools!</a>
