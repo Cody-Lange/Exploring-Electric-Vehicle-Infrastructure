@@ -8,7 +8,7 @@ Additionally, this project examines the growth of e-bike and e-scooter usage in 
 
 **Charging Station EDA_v2.ipynb** provides the code for importing alternative fuel station data from the US Department of Energy website, cleaning and manipulating the data to give insight on what regions have the most charging stations, creating bar charts, and creating an interactive choropleth that shows the total number of charging stations and supported levels of charging in each US county.
 
-**HTML in the Charging Station EDA notebook is viewable here:** https://nbviewer.jupyter.org/github/Cody-Lange/Exploring-Electric-Vehicle-Infrastructure/blob/main/Charging%20Station%20EDA_v2.ipynb
+**Interactive Choropleth of US Public, 24/7 EV Charging Stations by County is Viewable Here:** https://nbviewer.jupyter.org/github/Cody-Lange/Exploring-Electric-Vehicle-Infrastructure/blob/main/us_chargingstations_county.html
 
 ![Static Choropleth](https://github.com/Cody-Lange/Exploring-Electric-Vehicle-Infrastructure/blob/main/Charging_Station_Choropleth.PNG?raw=true)
 
